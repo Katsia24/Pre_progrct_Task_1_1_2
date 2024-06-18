@@ -6,7 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Pre_progrct_Task_1_1_2_git" />
+        <module name="Pre_project_Task_1_1_2_git" />
       </profile>
     </annotationProcessing>
   </component>
